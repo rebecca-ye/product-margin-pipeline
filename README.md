@@ -61,7 +61,7 @@ No data is included. Cost reports and sales records are confidential.
 
 ## Next steps
 
-- Estimate loss size and lag between sensitive commodity moves and factory cost changes to determine potential hedging strategy.
+- Measuring how quickly commodity price moves pass through to factory costs.
 
 ## Author
 
